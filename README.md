@@ -65,9 +65,3 @@ A simple and secure login and registration system with OTP (One-Time Password) f
 
 ![loggedin page](screenshots/Screenshot_5.png)
 *Screenshot of loggedin page.*
-
-## Feedback and Contributions 💌
-
-If you have any feedback or want to contribute to this project, feel free to contact the developer Azim Krishna, at azimbaji19@gmail.com
-
-Happy coding! 🚀
